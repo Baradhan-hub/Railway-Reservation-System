@@ -1,24 +1,23 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040045
+# Name:Baradhan L
+# Date:07/10/2025
 
 
 # AIM:
 To develop the Railway Reservation System using Star UML.
 
 # Problem Statement:
-1.The manual railway ticket booking system is time-consuming, error-prone, and inconvenient for both passengers and railway staff, especially during peak travel periods.
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Passengers often face difficulties such as unavailability of real-time seat information, long queues at booking counters, and a lack of transparency in ticket status.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.Railway authorities struggle to manage and update train schedules, coach configurations, ticket quotas, and passenger records using traditional systems.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.There is a need for an automated, centralized Railway Reservation System that provides real-time access to train schedules, seat availability, fare details, and booking status.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.The system should allow users to easily search trains, reserve or cancel tickets, view PNR status, and receive confirmation through SMS/email while ensuring secure payment processing.
-
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
 UML DIAGRAMS
 
@@ -39,9 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
+![image](https://github.com/user-attachments/assets/9e56676d-deef-46f6-b4e7-fddb9677ed92)
 
 
 
@@ -59,6 +56,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![image](https://github.com/user-attachments/assets/16a22789-f2b3-4501-80c6-ecf3acc2cef3)
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +66,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+![377959412-2add21fa-85bc-46bb-9475-e8d067ca22a5](https://github.com/user-attachments/assets/34285a11-f11a-40a1-98ca-20aecb030673)
 
 
 
@@ -79,11 +79,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
-
-
-
+![379624527-516f37ad-2280-4ec7-be8c-e0682af90a87](https://github.com/user-attachments/assets/a29b7e08-79ca-4f05-92bc-ccb3fdcb1137)
 
 # ACTIVITY DIAGRAM:
 
@@ -98,6 +94,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![image](https://github.com/user-attachments/assets/701af449-66bc-4f2c-a053-6cc1e097eb64)
 
 
 
@@ -118,6 +115,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+![image](https://github.com/user-attachments/assets/9a9b05d7-056e-45b5-90e9-69a50b8e5802)
 
 
 
@@ -126,4 +124,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Railway Reservation system was developed using Star UML Software is done successfully.
-
